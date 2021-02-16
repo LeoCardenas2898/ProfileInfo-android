@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/option1Item"
+          android:title="@string/profile_menu_option_1"
+          android:icon="@drawable/ic_home"/>
+
+    <item android:id="@+id/option2Item"
+          android:title="@string/profile_menu_option_2"
+          android:icon="@drawable/ic_layer"/>
+
+    <item android:id="@+id/placeholder"
+          android:title=""/>
+
+    <item android:id="@+id/option3Item"
+          android:title="@string/profile_menu_option_3"
+          android:icon="@drawable/ic_compass"/>
+
+    <item android:id="@+id/option4Item"
+          android:title="@string/profile_menu_option_4"
+          android:icon="@drawable/ic_settings"/>
+</menu>
