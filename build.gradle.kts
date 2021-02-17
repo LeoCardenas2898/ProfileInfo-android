@@ -17,6 +17,7 @@ allprojects {
     repositories {
         google()
         jcenter()
+        maven { url = uri("https://dl.bintray.com/unsplash/unsplash-photopicker-android") }
     }
 }
 
