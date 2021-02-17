@@ -42,6 +42,8 @@ dependencies {
     implementation("androidx.recyclerview:recyclerview:1.1.0")
     implementation("com.google.android.material:material:1.3.0")
     implementation("com.unsplash.pickerandroid:photopicker:1.0.0")
+    //Fresco
+    implementation("com.facebook.fresco:fresco:2.4.0")
     //Unit Test
     testImplementation("junit:junit:4.12")
     androidTestImplementation("androidx.test.ext:junit:1.1.2")
